@@ -97,15 +97,31 @@ I will evaluate this website in details while explicitly applying and identifyin
 
 #### 5. Error Prevention
 * When users are practicing their learning ability and gained skills in the Exercises section, if they made slips, unfortunately there is no way for them to go back and change their selections. The only thing they can do is just restart the entire test again which puts a higher cost on the users' time. In addition, there are no boundaries amomng different answers; thus, it will be even more likely for the learners to unconsciously click on the wrong choice.
- 
+  **(2)** 
+  
 ![image](https://user-images.githubusercontent.com/92048501/161983014-1e94e831-3dbc-4161-aa58-92a48a861de9.png)
 
 > *Recommendation: Users should be warned and reconfirmed before they select the answer, on extra step of confirmation will save the learners from a lot of potential mistakes. Also, adding a outline around each answer of giving it a selecting effect when a person chooses the symbol will help in reduing unwanted and inattentive errors.*
 
 #### 6. Recognition Rather Than Recall
 * The Tutorials section maintains a good recognition within each subcategories as the terminologies are appearing repeatedly corresponding to the learning objectives. However, when looking at acrossing the sub-categories, there are barely connections or repetitions in concepts among different ones. Thus, at the end of the learning period of music theory, people might forget some of the ideas present at the very beginning. 
-
+ **(2)** 
+ 
 ![image](https://user-images.githubusercontent.com/92048501/161986420-8c18e9ff-2ec7-441d-a4b5-dcc640cd7042.png)
 
 > *Recommendation: It will be easier for the learners if there are more associations constructed among the sub-categories. In addition, whenever there's a past term mentioned, there can be a inserted link of that term to where it is explained in the first place. In this way, it will be more helpful for the userers to recognize the learned ideas.*
 
+#### 7. Flexibility and Efficiency of Use
+* Although the Tutorials and Exercises sections are highly conncected and associated, there are not shortcuts or references between two sections. After the users took the test, if they discover that there are something that they need to review, they isn't a direct link for them to refer back to the concept in the Tutorials. If they want to practice and apply the skills they justed learned, there also isn't an efficient shortcut for them to go straightly to the Exercises.
+ **(2)** 
+ 
+> *Recommendation: It will be better if the developers could establish a connection between the Tutorials and Exercises sections. As such, the users will consolidate their learned skills more efficiently, and there will be more flexibility for the userers as they could be more easiler to pick which specific concept they want to navigate or practice more times.*
+
+#### 8. Aesthetic and Minimalist Design
+* The section that presents the articles especially does not demonstrate the minimalist design. Besides the repetition for the previous sub-categories, there are also two additional search options of "By Composer" and "By Author." Once again, many of the individuals are repeated for more than one time. Also, the choice of list the people next to the concepts is confusing and repetitive as well as the articles displayed are entirely the same.
+ **(3)** 
+
+![image](https://user-images.githubusercontent.com/92048501/161993002-7d4fcdd9-685b-4adc-994f-4b96540b2300.png)
+![image](https://user-images.githubusercontent.com/92048501/161993057-99deed34-a461-4759-b359-ae56738edd1f.png)
+
+> *Recommendation: It will be more aesthetic of the developer listed all the scholarly individuals alphabetically as a bar/column on the left. And once the user clicks on it, it will show the associated scholars with their title and preferably with the tags of the sub-categories for each article.*
