@@ -149,3 +149,11 @@ From the first glance, I do not feel like this website is very beginner friendly
  ![image](https://user-images.githubusercontent.com/92048501/162009656-ccc11caf-c786-41e2-a381-ccc713bce1df.png)
  
  > *Recommendation: Explicitly states that they are study guidelines in the Help Section at the Tutorials and Reference space or even moving some of the materials from "Help" to the major four sections.*
+
+
+
+
+## Website 2: [Music Theory for Musicians](https://www.music-theory-for-musicians.com/)
+
+### Brief Intro & Overall Evaluation
+[Music Theory for Musicians](https://www.music-theory-for-musicians.com/) is
