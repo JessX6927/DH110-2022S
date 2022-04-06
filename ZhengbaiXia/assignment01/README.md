@@ -125,3 +125,12 @@ I will evaluate this website in details while explicitly applying and identifyin
 ![image](https://user-images.githubusercontent.com/92048501/161993057-99deed34-a461-4759-b359-ae56738edd1f.png)
 
 > *Recommendation: It will be more aesthetic of the developer listed all the scholarly individuals alphabetically as a bar/column on the left. And once the user clicks on it, it will show the associated scholars with their title and preferably with the tags of the sub-categories for each article.*
+
+#### 9. Help Users Recognize, Diagnose, and Recover From Errors
+* Within the Exercises section, for explame as in the practice of "Chord, Scales, and Modes" in Jazz, when users did not select the right one, the phrase "wrong answer" is not in red or even a larger size. In addition, the correct answer is not in green and the reasons behind selecting the one are not displayed as well.
+ **(2)** 
+ 
+ ![image](https://user-images.githubusercontent.com/92048501/161996206-ed5a1a40-941a-4a01-9246-f337cfcaa33e.png)
+
+ > *Recommendation: The website will presents a more direct visual effect of the phrase of "wrong answer" is in red and "correct answer" is in green. Also, it will be much more convenient for the users if there are embeded videos to explain the reasons behind the selecting process. This design will faciliate the learning process of the individuals.*
+ > 
