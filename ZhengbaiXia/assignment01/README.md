@@ -84,6 +84,12 @@ I will evaluate this website in details while explicitly applying and identifyin
  
  ![image](https://user-images.githubusercontent.com/92048501/161973406-05449a64-b49a-45a8-b688-311caef26a3e.png)
 
-> *Recommendation: Although people can always go back and redo the entire test again, it will be more convenient and efficient if there a button of repeating the last sound or just simply providing a "return" or "go back" choice. 
+> *Recommendation: Although people can always go back and redo the entire test again, it will be more convenient and efficient if there a button of repeating the last sound or just simply providing a "return" or "go back" choice.* 
 
+#### 4. Consistency and Standards
+* From the Articles section, there are many identical essays that appear more than one time across different sub-categories. As in the example that I provided below, there are three overlapping articles between "instruments" and "history." For the purpose of maintaining consistency but also cohesion, such repetition of the same documentation should be avovided. Redundance does not mean consistency. Besides, the visual presentation as well as the materials of the Articles section are relatively separated from the rest of the sections which will give the users a sense of lose in connection.
 
+![image](https://user-images.githubusercontent.com/92048501/161979600-f86c1021-4a81-49f4-a0f7-9ce61405cb55.png)
+![image](https://user-images.githubusercontent.com/92048501/161979672-746a4f85-7347-4516-a6a0-b1eab95bbae4.png)
+
+> *Recommendation: It is better to arrange the articles in alphabetical order and tag each of their distinctive characterisitcs/sub-categories. In this way, this section will have more consistency on its own. Also, the articles could refer back to some of the terminologies that are introduced in other sections (maybe a link back to the concepts), so that the entire website will have more consistency throughout.*
