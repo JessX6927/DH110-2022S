@@ -62,3 +62,18 @@ I will evaluate this website in details while explicitly applying and identifyin
  **(3)** 
  
 > *Recommendation: Selecting or designing more direct and learner-friendly images or even simplified signs/symbols might be easier for attracting and guiding the viewers.*   
+
+#### 2. Match Between System and the Real World
+* Within the Tutorials section, the website provide a decent amout of information in explaining how to read music. However, for a beginner, this section still involves a lot of academic, internal, and professional words and phrases. Even though it is not possible to avoid using these terminologies, it will be better if the concepts are explained and demonstrated with more real-life conneciton or instances. Such basic knowledge is essential and especially crucial for the people who just started to learn music theory; therefore, it will be more accessible for them if more real-world conventions are adoppted in the descriptions.
+ **(3)** 
+ 
+![image](https://user-images.githubusercontent.com/92048501/161968610-f8306e33-2237-4d38-9c11-47cb9d9b16bf.png)
+
+ > *Recommendation: Imdeding videos that invited lecturers to introduce and explain the concepts will be much easiler for the users since it will be more direct and comprehensible for the first-time learners. In addition, the terminologies can be associated with real-life examples or connected with ideas from other fields. If some of the music concepts can be in dialogue with the man's current profession, it will be much convenient for him to grasp the knowledge and the essence. 
+
+* The entire Reference section requires a high-level of musical skill; it is quite confusing and difficult to understand for the first-time users with the amout of professional terminologies. 
+ **(3)**
+ 
+ ![image](https://user-images.githubusercontent.com/92048501/161970685-9b0527b2-eb79-41c8-b88c-c300e8f0f891.png)
+
+> *Recommendation: Including more video clips, sound tracks, or interactive activities will be helpful for the beginners to fully comprehend the concepts and eventually be familiar with them. 
