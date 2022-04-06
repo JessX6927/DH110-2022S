@@ -207,7 +207,7 @@ My first impression of this website is nice since it seems like a user-friendly 
 * There are several places within the website that the embeded weblink cannot be loaded, and there are no "emergency exits" provided. 
   **(3)**
   
-![image](https://user-images.githubusercontent.com/92048501/162048111-1e9e0877-01fb-48af-9577-e02e0ab8d0a6.png)
+![image](https://user-images.githubusercontent.com/92048501/162048858-00d36356-a232-49aa-a5c5-64554101247d.png)
 ![image](https://user-images.githubusercontent.com/92048501/162048199-335a76f0-63b3-4b6f-bea8-b642034cba94.png)
 
 > *Recommendation: Fixing the issue with the weblink, establishing a connection that will work on all PCs, or just creating a [cancel] or [exit] button within the webpage.
