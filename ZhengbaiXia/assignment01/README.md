@@ -36,10 +36,10 @@ On a scale of 1 to 3:
 
 ## Website 1: [teoría](https://www.teoria.com/index.php)
 
-### Brief Intro
-[teoría](https://www.teoria.com/index.php) is an interactive website which includes four major sections including Tutorials, Exercises, Reference, and Articles to help the learners to develop a comprehesive knowledge about music theories and practices. Each section divides into several sub-categories that further elaborate on specific terminologies, concepts, and activities. Users are able to click on a variety videos, sound tracks, and quizzes to practice and examine their learning progress and skills. In addition, the website also provides many scholarly resources to support and supplement their definitions and materials. 
+### Brief Intro & Overall Evaluation
+[teoría](https://www.teoria.com/index.php) is an interactive website developed by José Rodríguez Alvira; it displays four major sections including Tutorials, Exercises, Reference, and Articles to help the learners to develop a comprehesive knowledge about music theories and practices. Each section divides into several sub-categories that further elaborate on specific terminologies, concepts, and activities. Users are able to click on a variety videos, sound tracks, and quizzes to practice and examine their learning progress and skills. In addition, the website also provides many scholarly resources to support and supplement their definitions and materials. 
 
-I will evaluate this website in details while explicitly applying and identifying the ten Usability Heuristics from the perspective of the mid-aged men.
+From the first glance, I do not feel like this website is very beginner friendly since it presents a lot of professional terminologies from the get-go. The navigation of the website is a little bit confusing due to the lack of direct connections among the four sections as well as the repetition of some articles and materials. I think the userers will find it hard to learn without an instructor's guidance. I will evaluate this website in details while explicitly applying and identifying the Ten Usability Heuristics from the perspective of the mid-aged men.
 
 <p align="center">
   <img width="1440" alt="frontpage 1" src="https://user-images.githubusercontent.com/92048501/161959067-061f426b-baaa-4850-a3ea-b994d6ad746a.png">
