@@ -133,4 +133,19 @@ I will evaluate this website in details while explicitly applying and identifyin
  ![image](https://user-images.githubusercontent.com/92048501/161996206-ed5a1a40-941a-4a01-9246-f337cfcaa33e.png)
 
  > *Recommendation: The website will presents a more direct visual effect of the phrase of "wrong answer" is in red and "correct answer" is in green. Also, it will be much more convenient for the users if there are embeded videos to explain the reasons behind the selecting process. This design will faciliate the learning process of the individuals.*
- > 
+
+#### 10. Help and Documentation
+* The Help section is well-designed in this website. One thing I discovered is that the additional guidance for the Exercises section is missing one of the sub-categories.  
+ **(2)** 
+ 
+ ![image](https://user-images.githubusercontent.com/92048501/162009334-2b776ddb-2ecf-4b01-9d58-a492a836dd0e.png)
+ ![image](https://user-images.githubusercontent.com/92048501/162009413-0f9f9428-3fb6-4cd1-abfc-99f174ec4a40.png)
+ 
+ > *Recommendation: Adding a the missing category of Ear Training and Sight Singing Practice in the Help Section.*
+
+* Also, the Help section includes a lot of supplementing materials for Tutorials and Reference Sections, yet are not indicated to the users that there are detailed study guides prepared for them.
+ **(2)** 
+ 
+ ![image](https://user-images.githubusercontent.com/92048501/162009656-ccc11caf-c786-41e2-a381-ccc713bce1df.png)
+ 
+ > *Recommendation: Explicitly states that they are study guidelines in the Help Section at the Tutorials and Reference space or even moving some of the materials from "Help" to the major four sections.*
