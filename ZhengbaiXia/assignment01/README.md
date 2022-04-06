@@ -213,3 +213,15 @@ My first impression of this website is nice since it seems like a user-friendly 
 > *Recommendation: Fixing the issue with the weblink, establishing a connection that will work on all PCs, or just creating a [cancel] or [exit] button within the webpage.
 
 #### 4. Consistency and Standards
+* When looking at consustency of this website, there is one case that the concept of intervals are introduced twice below two different headings, Videos and Topics. In addition, the phrase are not the same, one is addressed as "Music Theory Intervals" and the other one is as "Music Intervals." This might cause a little confusion from the first glance, and the users will question why the same concept is being introduced twice under different sections. 
+  **(2)**
+
+![image](https://user-images.githubusercontent.com/92048501/162050842-1159a343-9624-49bd-86cf-4d9f07ba2f47.png)
+![image](https://user-images.githubusercontent.com/92048501/162050909-ef698707-80e3-48bf-843c-11151c198892.png)
+
+> *Recommendation: Intergrating both into one and put them under the same section and choosing the same title/naming for the concept in order to establish higher consistency and clarity. 
+
+#### 5. Error Prevention
+
+
+  **(2)**
