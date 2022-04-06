@@ -102,3 +102,10 @@ I will evaluate this website in details while explicitly applying and identifyin
 
 > *Recommendation: Users should be warned and reconfirmed before they select the answer, on extra step of confirmation will save the learners from a lot of potential mistakes. Also, adding a outline around each answer of giving it a selecting effect when a person chooses the symbol will help in reduing unwanted and inattentive errors.*
 
+#### 6. Recognition Rather Than Recall
+* The Tutorials section maintains a good recognition within each subcategories as the terminologies are appearing repeatedly corresponding to the learning objectives. However, when looking at acrossing the sub-categories, there are barely connections or repetitions in concepts among different ones. Thus, at the end of the learning period of music theory, people might forget some of the ideas present at the very beginning. 
+
+![image](https://user-images.githubusercontent.com/92048501/161986420-8c18e9ff-2ec7-441d-a4b5-dcc640cd7042.png)
+
+> *Recommendation: It will be easier for the learners if there are more associations constructed among the sub-categories. In addition, whenever there's a past term mentioned, there can be a inserted link of that term to where it is explained in the first place. In this way, it will be more helpful for the userers to recognize the learned ideas.*
+
