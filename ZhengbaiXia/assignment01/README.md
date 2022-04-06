@@ -195,7 +195,7 @@ My first impression of this website is nice since it seems like a user-friendly 
 
 ![image](https://user-images.githubusercontent.com/92048501/162046497-f5ea9320-bf0c-410d-ab34-312e8f490013.png)
 
- > *Recommendation: Creating online interactive worksheets or quizzes that can get the users their testing result immediately.
+ > *Recommendation: Creating online interactive worksheets or quizzes that can get the users their testing result immediately.*
 
 
 * There are several places within the website that the embeded weblink cannot be loaded, and there are no "emergency exits" provided. 
@@ -204,7 +204,7 @@ My first impression of this website is nice since it seems like a user-friendly 
 ![image](https://user-images.githubusercontent.com/92048501/162048858-00d36356-a232-49aa-a5c5-64554101247d.png)
 ![image](https://user-images.githubusercontent.com/92048501/162048199-335a76f0-63b3-4b6f-bea8-b642034cba94.png)
 
-> *Recommendation: Fixing the issue with the weblink, establishing a connection that will work on all PCs, or just creating a [cancel] or [exit] button within the webpage.
+> *Recommendation: Fixing the issue with the weblink, establishing a connection that will work on all PCs, or just creating a [cancel] or [exit] button within the webpage.*
 
 #### 4. Consistency and Standards
 * When looking at consustency of this website, there is one case that the concept of intervals are introduced twice below two different headings, Videos and Topics. In addition, the phrase are not the same, one is addressed as "Music Theory Intervals" and the other one is as "Music Intervals." This might cause a little confusion from the first glance, and the users will question why the same concept is being introduced twice under different sections. 
@@ -213,7 +213,7 @@ My first impression of this website is nice since it seems like a user-friendly 
 ![image](https://user-images.githubusercontent.com/92048501/162050842-1159a343-9624-49bd-86cf-4d9f07ba2f47.png)
 ![image](https://user-images.githubusercontent.com/92048501/162050909-ef698707-80e3-48bf-843c-11151c198892.png)
 
-> *Recommendation: Intergrating both into one and put them under the same section and choosing the same title/naming for the concept in order to establish higher consistency and clarity. 
+> *Recommendation: Intergrating both into one and put them under the same section and choosing the same title/naming for the concept in order to establish higher consistency and clarity.* 
 
 #### 5. Error Prevention
 * The search box does not show the related results down below the webpage; instead, it directs the users to another webpage from Google. Also when one clicks on it, it does not show or highlight the targeted word; thus, it creats additional difficulity for the users to locate the word they want to read more about. Besides, if the user accidentally typed the word wrong, there are no suggested searching results, so the user bascially have to go back and retype in the searchbox again. 
@@ -223,6 +223,21 @@ My first impression of this website is nice since it seems like a user-friendly 
   ![image](https://user-images.githubusercontent.com/92048501/162053341-64f0976f-54c0-468c-8e78-12b4266ad23e.png)
   ![image](https://user-images.githubusercontent.com/92048501/162053376-58444353-d873-4644-a727-5deab66733bf.png)
 
-> *Recommendation: The searching results should appear right below the box on the same webpage, and the users should see their typed word highlighted in the text. Establishing a suggested searching result will save the time for the users and eliminating the cost of slips.
+> *Recommendation: The searching results should appear right below the box on the same webpage, and the users should see their typed word highlighted in the text. Establishing a suggested searching result will save the time for the users and eliminating the cost of slips.*
 
 #### 6. Recognition Rather Than Recall
+* The Where to Start section guides the user to read the Music Theory Basics Page first, which introduced the terminologies of Alphabet, Scales, and Intervals, respectively. However, within the Starting page, the page introduced after Scales is Reading Musics, which does not keep the tendency of recognition. Hence, useres might need to recall the concept of intervals when the next timw they encounter it again.
+
+![image](https://user-images.githubusercontent.com/92048501/162058468-89d2f9c8-ec88-4f54-bf51-e83e4088a2cc.png)
+![image](https://user-images.githubusercontent.com/92048501/162058533-120d3a02-a8ad-4bec-881f-400084b4dbd9.png)
+
+> *Recommendation: It will establish a stronger recognition for the users if the next page directed after "Scales" is "Intervals" instead of "Reading Musics" in the "Where to Start?" section.*  
+
+#### 7. Flexibility and Efficiency of Use
+* Also within the Where to Start page, since it is the beginning of the navigation of the website, it is essential to establish full flexibility and efficiency. When the users click on the key word such as the Music Theory Basics, they will be redirect to the embeded webpage. However, when they scroll fown and want to return to the Where to Start section, there is no such option and they can only return to the homepage which disrupted the continuity of learning. 
+
+![image](https://user-images.githubusercontent.com/92048501/162059519-af2f8944-3037-4d4d-9fe0-c73951e38e70.png)
+
+> *Recommendation: Adding a redirection link back to the Where to Start section under each embeded webpage from the main.*
+
+#### 8. Aesthetic and Minimalist Design
