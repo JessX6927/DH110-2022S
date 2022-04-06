@@ -100,5 +100,5 @@ I will evaluate this website in details while explicitly applying and identifyin
  
 ![image](https://user-images.githubusercontent.com/92048501/161983014-1e94e831-3dbc-4161-aa58-92a48a861de9.png)
 
-> *Recommendation: Users should be warned and reconfirmed before they select the answer, on extra step of confirmation will save the learners from a lot of potential mistakes. Also, adding a outline around each answer of giving it a selecting effect when a person chooses the symbol will help in reduing unwanted and inattentive errors. 
+> *Recommendation: Users should be warned and reconfirmed before they select the answer, on extra step of confirmation will save the learners from a lot of potential mistakes. Also, adding a outline around each answer of giving it a selecting effect when a person chooses the symbol will help in reduing unwanted and inattentive errors.*
 
