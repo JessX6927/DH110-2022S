@@ -69,11 +69,21 @@ I will evaluate this website in details while explicitly applying and identifyin
  
 ![image](https://user-images.githubusercontent.com/92048501/161968610-f8306e33-2237-4d38-9c11-47cb9d9b16bf.png)
 
- > *Recommendation: Imdeding videos that invited lecturers to introduce and explain the concepts will be much easiler for the users since it will be more direct and comprehensible for the first-time learners. In addition, the terminologies can be associated with real-life examples or connected with ideas from other fields. If some of the music concepts can be in dialogue with the man's current profession, it will be much convenient for him to grasp the knowledge and the essence. 
+ > *Recommendation: Imdeding videos that invited lecturers to introduce and explain the concepts will be much easiler for the users since it will be more direct and comprehensible for the first-time learners. In addition, the terminologies can be associated with real-life examples or connected with ideas from other fields. If some of the music concepts can be in dialogue with the man's current profession, it will be much convenient for him to grasp the knowledge and the essence.* 
 
 * The entire Reference section requires a high-level of musical skill; it is quite confusing and difficult to understand for the first-time users with the amout of professional terminologies. 
  **(3)**
  
  ![image](https://user-images.githubusercontent.com/92048501/161970685-9b0527b2-eb79-41c8-b88c-c300e8f0f891.png)
 
-> *Recommendation: Including more video clips, sound tracks, or interactive activities will be helpful for the beginners to fully comprehend the concepts and eventually be familiar with them. 
+> *Recommendation: Including more video clips, sound tracks, or interactive activities will be helpful for the beginners to fully comprehend the concepts and eventually be familiar with them.* 
+
+#### 3. User Control and Freedom
+* In the Exercises section, learners can practice and test their listening and identifying ability. However, all of the exercises, for instance, within the case of interval ear training, if the individual accidentally clicks the wrong answer, then he cannot go back and redo the sound. The only option is to exit the exercise and retstart the test again if the user wants the most accurate result/reflection of their ability. 
+ **(2)** 
+ 
+ ![image](https://user-images.githubusercontent.com/92048501/161973406-05449a64-b49a-45a8-b688-311caef26a3e.png)
+
+> *Recommendation: Although people can always go back and redo the entire test again, it will be more convenient and efficient if there a button of repeating the last sound or just simply providing a "return" or "go back" choice. 
+
+
