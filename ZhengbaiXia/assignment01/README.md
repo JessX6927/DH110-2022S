@@ -188,3 +188,28 @@ My first impression of this website is nice since it seems like a user-friendly 
 ![image](https://user-images.githubusercontent.com/92048501/162036256-058a3749-6bf4-442b-a060-a5ce73599a28.png)
 
  > *Recommendation: The only suggestion is just add examples to the terminologies that are not provided with a real-life example but only if extra time is granted or additional support is needed.*
+
+#### 3. User Control and Freedom
+* The webiste provides practice worksheets for the users to test their learning progress; however, these worksheets can only be downloaded as pdfs, and these worksheets cannot be loaded in all PCs. Therefore, it might block the experience for some potential users. 
+  **(1)**
+
+![image](https://user-images.githubusercontent.com/92048501/162046497-f5ea9320-bf0c-410d-ab34-312e8f490013.png)
+
+ > *Recommendation: Creating online interactive worksheets or quizzes that can get the users their testing result immediately.
+
+* The search box does not show the related results down below the webpage; instead, it directs the users to another webpage from Google. Also when one clicks on it, it does not show or highlight the targeted word; thus, it creats additional difficulity for the users to locate the word they want to read more about. 
+  **(2)**
+  
+  ![image](https://user-images.githubusercontent.com/92048501/162047475-e78a313b-c3b8-4cd2-9d7c-794b4146fe4b.png)
+  
+> *Recommendation: The searching results should appear right below the box on the same webpage, and the users should see their typed word highlighted in the text. 
+
+* There are several places within the website that the embeded weblink cannot be loaded, and there are no "emergency exits" provided. 
+  **(3)**
+  
+![image](https://user-images.githubusercontent.com/92048501/162048111-1e9e0877-01fb-48af-9577-e02e0ab8d0a6.png)
+![image](https://user-images.githubusercontent.com/92048501/162048199-335a76f0-63b3-4b6f-bea8-b642034cba94.png)
+
+> *Recommendation: Fixing the issue with the weblink, establishing a connection that will work on all PCs, or just creating a [cancel] or [exit] button within the webpage.
+
+#### 4. Consistency and Standards
