@@ -156,4 +156,17 @@ From the first glance, I do not feel like this website is very beginner friendly
 ## Website 2: [Music Theory for Musicians](https://www.music-theory-for-musicians.com/)
 
 ### Brief Intro & Overall Evaluation
-[Music Theory for Musicians](https://www.music-theory-for-musicians.com/) is
+[Music Theory for Musicians](https://www.music-theory-for-musicians.com/) is music learning website designed for people above sixteen years old with explanations of basic musical concepts, supplementing videos taught by John Boulware, and practicing exercises. The homepage provides the users, especially for the beginners a guildeline of how to navigate the website and start their journey of music learning. First-time users will be able to follow the steps that the developer provided accrodingly, and people will be redirected to different sections of the website as they clicked on the key words. 
+
+My first impression of this website is nice since it seems like a user-friendly platform that offers detailed guidance from step to step. Such human-orientated design is especially ideal for the demographic of the mid-aged men. However, the main headings of this website confused me a little as they are divided into "Home, Welcome, Ebooks, Videos, Sections, and Topics," which I believe there should be better alternatives in separating the different embeded materials with a clearer orientation. I will further evaluate the website and its music learning usability based on Jakob Nielsen's ten general principles of interaction design.
+
+![image](https://user-images.githubusercontent.com/92048501/162024693-da67f4f6-ba26-4daa-a025-4c380e3910ca.png)
+![image](https://user-images.githubusercontent.com/92048501/162024739-22867703-c637-4245-b5d3-25e13ac29b05.png)
+![image](https://user-images.githubusercontent.com/92048501/162024799-a41a600b-04c1-42e0-843d-de6ba26d1995.png)
+![image](https://user-images.githubusercontent.com/92048501/162024863-bebbc12d-5fb2-43de-bd7e-0c2c3c9a0540.png)
+
+
+## Heuristic Evaluation
+
+#### 1. Visibility of System Status
+* 
