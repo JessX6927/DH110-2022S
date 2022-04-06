@@ -197,12 +197,6 @@ My first impression of this website is nice since it seems like a user-friendly 
 
  > *Recommendation: Creating online interactive worksheets or quizzes that can get the users their testing result immediately.
 
-* The search box does not show the related results down below the webpage; instead, it directs the users to another webpage from Google. Also when one clicks on it, it does not show or highlight the targeted word; thus, it creats additional difficulity for the users to locate the word they want to read more about. 
-  **(2)**
-  
-  ![image](https://user-images.githubusercontent.com/92048501/162047475-e78a313b-c3b8-4cd2-9d7c-794b4146fe4b.png)
-  
-> *Recommendation: The searching results should appear right below the box on the same webpage, and the users should see their typed word highlighted in the text. 
 
 * There are several places within the website that the embeded weblink cannot be loaded, and there are no "emergency exits" provided. 
   **(3)**
@@ -222,6 +216,13 @@ My first impression of this website is nice since it seems like a user-friendly 
 > *Recommendation: Intergrating both into one and put them under the same section and choosing the same title/naming for the concept in order to establish higher consistency and clarity. 
 
 #### 5. Error Prevention
-
-
+* The search box does not show the related results down below the webpage; instead, it directs the users to another webpage from Google. Also when one clicks on it, it does not show or highlight the targeted word; thus, it creats additional difficulity for the users to locate the word they want to read more about. Besides, if the user accidentally typed the word wrong, there are no suggested searching results, so the user bascially have to go back and retype in the searchbox again. 
   **(2)**
+  
+  ![image](https://user-images.githubusercontent.com/92048501/162047475-e78a313b-c3b8-4cd2-9d7c-794b4146fe4b.png)
+  ![image](https://user-images.githubusercontent.com/92048501/162053341-64f0976f-54c0-468c-8e78-12b4266ad23e.png)
+  ![image](https://user-images.githubusercontent.com/92048501/162053376-58444353-d873-4644-a727-5deab66733bf.png)
+
+> *Recommendation: The searching results should appear right below the box on the same webpage, and the users should see their typed word highlighted in the text. Establishing a suggested searching result will save the time for the users and eliminating the cost of slips.
+
+#### 6. Recognition Rather Than Recall
