@@ -255,6 +255,7 @@ My first impression of this website is nice since it seems like a user-friendly 
 
 #### 10. Help and Documentation
 * This website does not have any help section or documentation for additional assistance. The only thing contained is just the Contact Me section, where the user can reach the developer. However, I think a help section is essential and necessary since learners need a space to seek further support and solve their issues directly. 
+ **(3)**
 
 ![image](https://user-images.githubusercontent.com/92048501/162068059-483ef409-f8df-46e4-9408-cdfa872cc035.png)
 
