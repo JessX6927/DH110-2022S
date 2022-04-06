@@ -46,3 +46,20 @@ I will evaluate this website in details while explicitly applying and identifyin
   <img width="1440" alt="frontpage 2" src="https://user-images.githubusercontent.com/92048501/161959171-84c31154-9eda-412c-8db2-b707434cbd25.png">
   <img width="1440" alt="frontpage 3" src="https://user-images.githubusercontent.com/92048501/161959200-64c49f27-86e0-4755-a7b9-6dab9f94feba.png">
 </p>
+
+
+## Heuristic Evaluation
+
+#### 1. Visibility of System Status
+* Based on the presentation of the homepage, the titles of the four major sections of this website are not identical between the headings and the main page's catergories. This might cause confusion to the users because they will not associate the connection among all the different titles from the first glance. 
+ **(2)** 
+ 
+ ![image](https://user-images.githubusercontent.com/92048501/161963283-069eae7e-8b6a-4533-9faa-aa817e8a1eb9.png)
+ 
+ > - Recommendation: Keeping the titles as the same as the headings in the main page, and it is preferable to add more detailed information below the big title or just elaborate on the topic once the user clicks on the section. 
+
+
+* The four images which are corresponding to the four independent sections are not ideally representative of the materials introduced within each category. Futhermore, the chosen images required a certain amount of music knowledge. Such relatively professional presentation might scared some of the potential users off, especially when the considering the case of the mid-aged men. 
+ **(3)** 
+ 
+> - Recommendation: Selecting or designing more direct and learner-friendly images or even simplified signs/symbols might be easier for attracting and guiding the viewers.   
