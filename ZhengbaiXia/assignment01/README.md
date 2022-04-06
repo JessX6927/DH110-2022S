@@ -33,9 +33,16 @@ On a scale of 1 to 3:
 
 #### Numbers presented in parentheses (bold) following each usability Heuristic evaluation reflect the corresponding rating.
 
+
 ## Website 1: [teoría](https://www.teoria.com/index.php)
 
 ### Brief Intro
+[teoría](https://www.teoria.com/index.php) is an interactive website which includes four major sections including Tutorials, Exercises, Reference, and Articles to help the learners to develop a comprehesive knowledge about music theories and practices. Each section divides into several sub-categories that further elaborate on specific terminologies, concepts, and activities. Users are able to click on a variety videos, sound tracks, and quizzes to practice and examine their learning progress and skills. In addition, the website also provides many scholarly resources to support and supplement their definitions and materials. 
 
+I will evaluate this website in details while explicitly applying and identifying the ten Usability Heuristics from the perspective of the mid-aged men.
 
-### About
+<p align="center">
+  <img width="1440" alt="frontpage 1" src="https://user-images.githubusercontent.com/92048501/161959067-061f426b-baaa-4850-a3ea-b994d6ad746a.png">
+  <img width="1440" alt="frontpage 2" src="https://user-images.githubusercontent.com/92048501/161959171-84c31154-9eda-412c-8db2-b707434cbd25.png">
+  <img width="1440" alt="frontpage 3" src="https://user-images.githubusercontent.com/92048501/161959200-64c49f27-86e0-4755-a7b9-6dab9f94feba.png">
+</p>
