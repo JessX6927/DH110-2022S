@@ -56,10 +56,9 @@ I will evaluate this website in details while explicitly applying and identifyin
  
  ![image](https://user-images.githubusercontent.com/92048501/161963283-069eae7e-8b6a-4533-9faa-aa817e8a1eb9.png)
  
- > - Recommendation: Keeping the titles as the same as the headings in the main page, and it is preferable to add more detailed information below the big title or just elaborate on the topic once the user clicks on the section. 
-
+ > *Recommendation: Keeping the titles as the same as the headings in the main page, and it is preferable to add more detailed information below the big title or just elaborate on the topic once the user clicks on the section.* 
 
 * The four images which are corresponding to the four independent sections are not ideally representative of the materials introduced within each category. Futhermore, the chosen images required a certain amount of music knowledge. Such relatively professional presentation might scared some of the potential users off, especially when the considering the case of the mid-aged men. 
  **(3)** 
  
-> - Recommendation: Selecting or designing more direct and learner-friendly images or even simplified signs/symbols might be easier for attracting and guiding the viewers.   
+> *Recommendation: Selecting or designing more direct and learner-friendly images or even simplified signs/symbols might be easier for attracting and guiding the viewers.*   
