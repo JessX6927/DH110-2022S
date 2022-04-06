@@ -88,8 +88,17 @@ I will evaluate this website in details while explicitly applying and identifyin
 
 #### 4. Consistency and Standards
 * From the Articles section, there are many identical essays that appear more than one time across different sub-categories. As in the example that I provided below, there are three overlapping articles between "instruments" and "history." For the purpose of maintaining consistency but also cohesion, such repetition of the same documentation should be avovided. Redundance does not mean consistency. Besides, the visual presentation as well as the materials of the Articles section are relatively separated from the rest of the sections which will give the users a sense of lose in connection.
-
+ **(3)**
+ 
 ![image](https://user-images.githubusercontent.com/92048501/161979600-f86c1021-4a81-49f4-a0f7-9ce61405cb55.png)
 ![image](https://user-images.githubusercontent.com/92048501/161979672-746a4f85-7347-4516-a6a0-b1eab95bbae4.png)
 
 > *Recommendation: It is better to arrange the articles in alphabetical order and tag each of their distinctive characterisitcs/sub-categories. In this way, this section will have more consistency on its own. Also, the articles could refer back to some of the terminologies that are introduced in other sections (maybe a link back to the concepts), so that the entire website will have more consistency throughout.*
+
+#### 5. Error Prevention
+* When users are practicing their learning ability and gained skills in the Exercises section, if they made slips, unfortunately there is no way for them to go back and change their selections. The only thing they can do is just restart the entire test again which puts a higher cost on the users' time. In addition, there are no boundaries amomng different answers; thus, it will be even more likely for the learners to unconsciously click on the wrong choice.
+ 
+![image](https://user-images.githubusercontent.com/92048501/161983014-1e94e831-3dbc-4161-aa58-92a48a861de9.png)
+
+> *Recommendation: Users should be warned and reconfirmed before they select the answer, on extra step of confirmation will save the learners from a lot of potential mistakes. Also, adding a outline around each answer of giving it a selecting effect when a person chooses the symbol will help in reduing unwanted and inattentive errors. 
+
