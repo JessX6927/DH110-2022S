@@ -26,8 +26,9 @@ Picking up a new habit or learning a new hobby during one's mid-age can be chall
 ### [Severity Ratings](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/) for Usability Problems by Nielsen Norman Group
 
 On a scale of 1 to 3:
+
 1 = Cosmetic problem only: need not be fixed unless extra time is available on project  
 2 = Minor usability problem: fixing this should be given low priority  
 3 = Major usability problem: important to fix, so should be given high priority
 
-Numbers presented in parentheses (bold) following each usability Heuristic evaluation reflect the corresponding rating.
+#### Numbers presented in parentheses (bold) following each usability Heuristic evaluation reflect the corresponding rating.
