@@ -169,4 +169,19 @@ My first impression of this website is nice since it seems like a user-friendly 
 ## Heuristic Evaluation
 
 #### 1. Visibility of System Status
-* 
+* Even though the developer includes a "Where to Start?" page for the beginners, the first steps that are displayed on this section are not in an order that follows the main headings/the bar on the left of the webpage. This arrangement might cause confusion for the users that why these sub-categories are the ones that the learners should study the first. Also, the where to start section ends at leading people to the search box which left individual more lost of what they should focus on next. 
+ **(3)**
+ 
+![image](https://user-images.githubusercontent.com/92048501/162029992-58d1808c-41a0-4a94-acee-ee82a4490d60.png)
+![image](https://user-images.githubusercontent.com/92048501/162030031-943bc1e1-a64a-4f92-81e7-5e2eb9421f67.png)
+
+ > *Recommendation: If the First Steps are the ideal order of navigating the website, then the bar to the left should have a individual section/sub-headings that titled "First Steps" so that the users will know where they are located in the website. Then, the rest of the headings should be reorganized into sections that are the exact learning steps for the users and arranged all the additional/supplementing materials at the very end.*
+
+
+#### 2. Match Between System and the Real World
+* The website explains most of the concepts in a user-friendly phrasing that connects to real-life instances and conventions. The music notes are being introduced as associated with learning the alphabets; in this ways, the beginners will grasp the concept easily since they are related to things that they are already familar with. Furthermore, even the more intermediate terminologies such as arpeggios are explained with real-life examples. Hence, from a user's perspective, the website has rarely any issues of matching between the system and the real world. 
+
+![image](https://user-images.githubusercontent.com/92048501/162036155-1e252cc3-8b61-4d40-aebd-208a16b59080.png)
+![image](https://user-images.githubusercontent.com/92048501/162036256-058a3749-6bf4-442b-a060-a5ce73599a28.png)
+
+ > *Recommendation: The only suggestion is just add examples to the terminologies that are not provided with a real-life example but only if extra time is granted or additional support is needed. 
