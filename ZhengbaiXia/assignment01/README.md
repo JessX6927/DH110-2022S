@@ -190,14 +190,6 @@ My first impression of this website is nice since it seems like a user-friendly 
  > *Recommendation: The only suggestion is just add examples to the terminologies that are not provided with a real-life example but only if extra time is granted or additional support is needed.*
 
 #### 3. User Control and Freedom
-* The webiste provides practice worksheets for the users to test their learning progress; however, these worksheets can only be downloaded as pdfs, and these worksheets cannot be loaded in all PCs. Therefore, it might block the experience for some potential users. 
-  **(1)**
-
-![image](https://user-images.githubusercontent.com/92048501/162046497-f5ea9320-bf0c-410d-ab34-312e8f490013.png)
-
- > *Recommendation: Creating online interactive worksheets or quizzes that can get the users their testing result immediately.*
-
-
 * There are several places within the website that the embeded weblink cannot be loaded, and there are no "emergency exits" provided. 
   **(3)**
   
@@ -244,7 +236,19 @@ My first impression of this website is nice since it seems like a user-friendly 
 
 #### 8. Aesthetic and Minimalist Design
 * The Headings involve many overlapping webpages, and the categories are not divided up in the most minimalistic way. It might cause unnecessary difficulity for the users when they are directed to the same webpage several times from different sections. In addition, the lecture videos are still discuss the same terminolgies that are introduced under the Topics or the Sections space. 
-  **(2)**
+  **(3)**
   
 > *Recommendation: It will have a strong minimalist aesthetics if the headings are just catergorized by topics or learning objectives. In this way, users won't be redirected to the same webpage over and over again, and the lecture videos can also be inserted into each big concepts. A Where to Start section, Basics section, Intermediate section, and Practice section will present a more simplistic presentation but still with the same contents.* 
 
+#### 9. Help Users Recognize, Diagnose, and Recover From Errors
+* The webiste provides practice worksheets for the users to test their learning progress; however, these worksheets can only be downloaded as pdfs, and these worksheets cannot be loaded in all PCs. Therefore, it might block the experience for some potential users. In addition, as they are not online interactive tests, the users won't have the experience of getting the red and bold "wrong answers" or green and bold "right answers" responses, which are more memorizable and could facilitate the learning progress.
+  **(3)**
+
+![image](https://user-images.githubusercontent.com/92048501/162046497-f5ea9320-bf0c-410d-ab34-312e8f490013.png)
+
+ > *Recommendation: Creating online interactive worksheets or quizzes that can get the users their testing result immediately.*
+
+* There is no traditional error message pop up when the user mistakenly typed the word wrong in the search box. 
+  **(2)**
+  
+ > *Recommendation: Adding red alert warnings when the user unconsciously entered the misspelled words or phrases.*
