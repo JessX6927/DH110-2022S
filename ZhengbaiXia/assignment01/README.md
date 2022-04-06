@@ -227,7 +227,8 @@ My first impression of this website is nice since it seems like a user-friendly 
 
 #### 6. Recognition Rather Than Recall
 * The Where to Start section guides the user to read the Music Theory Basics Page first, which introduced the terminologies of Alphabet, Scales, and Intervals, respectively. However, within the Starting page, the page introduced after Scales is Reading Musics, which does not keep the tendency of recognition. Hence, useres might need to recall the concept of intervals when the next timw they encounter it again.
-
+  **(2)**
+  
 ![image](https://user-images.githubusercontent.com/92048501/162058468-89d2f9c8-ec88-4f54-bf51-e83e4088a2cc.png)
 ![image](https://user-images.githubusercontent.com/92048501/162058533-120d3a02-a8ad-4bec-881f-400084b4dbd9.png)
 
@@ -235,9 +236,15 @@ My first impression of this website is nice since it seems like a user-friendly 
 
 #### 7. Flexibility and Efficiency of Use
 * Also within the Where to Start page, since it is the beginning of the navigation of the website, it is essential to establish full flexibility and efficiency. When the users click on the key word such as the Music Theory Basics, they will be redirect to the embeded webpage. However, when they scroll fown and want to return to the Where to Start section, there is no such option and they can only return to the homepage which disrupted the continuity of learning. 
-
+  **(3)**
+  
 ![image](https://user-images.githubusercontent.com/92048501/162059519-af2f8944-3037-4d4d-9fe0-c73951e38e70.png)
 
 > *Recommendation: Adding a redirection link back to the Where to Start section under each embeded webpage from the main.*
 
 #### 8. Aesthetic and Minimalist Design
+* The Headings involve many overlapping webpages, and the categories are not divided up in the most minimalistic way. It might cause unnecessary difficulity for the users when they are directed to the same webpage several times from different sections. In addition, the lecture videos are still discuss the same terminolgies that are introduced under the Topics or the Sections space. 
+  **(2)**
+  
+> *Recommendation: It will have a strong minimalist aesthetics if the headings are just catergorized by topics or learning objectives. In this way, users won't be redirected to the same webpage over and over again, and the lecture videos can also be inserted into each big concepts. A Where to Start section, Basics section, Intermediate section, and Practice section will present a more simplistic presentation but still with the same contents.* 
+
